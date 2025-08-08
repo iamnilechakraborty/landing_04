@@ -91,7 +91,7 @@ export default function LandingPage() {
         <div className="relative w-full max-w-sm rounded-2xl bg-white p-8 text-center shadow-xl">
           <h1 className="flex items-center justify-center text-3xl font-bold text-gray-800">
             <Crown className="h-7 w-7 text-yellow-500" />
-            <span className="mx-2">Your Queen</span>
+            <span className="mx-2">Queen Shots</span>
             <Crown className="h-7 w-7 text-yellow-500" />
           </h1>
           <p className="mt-2 text-gray-600">Telegram ka Sabse Bada Number Sureshot Prediction</p>
@@ -117,7 +117,7 @@ export default function LandingPage() {
           </ul>
 
           <Link
-            href="https://t.me/+QPFrVqVQ3WUzNDBl"
+            href="https://t.me/+lPTKkcATbpllZTNl"
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleJoinClick}
