@@ -7,9 +7,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Shalini Queen - Sureshot Predictions & Loss Recovery",
+  title: "Shots Queen - Sureshot Predictions & Loss Recovery",
   description:
-    "Join Shalini Queen's Telegram channel for the best sureshot predictions and 100% loss recovery strategies. Daily gifts and numbers available. Join now before free access ends!",
+    "Join Queen's Telegram channel for the best sureshot predictions and 100% loss recovery strategies. Daily gifts and numbers available. Join now before free access ends!",
     generator: 'v0.dev'
 }
 
@@ -35,7 +35,7 @@ export default function RootLayout({
         </Script>
         <Script id="meta-pixel-init" strategy="afterInteractive">
           {`
-            fbq('init', '575419838237482');
+            fbq('init', '691058053883335');
             fbq('track', 'PageView');
           `}
         </Script>
@@ -44,7 +44,7 @@ export default function RootLayout({
             height="1"
             width="1"
             style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=575419838237482&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=691058053883335&ev=PageView&noscript=1"
           />
         </noscript>
         
