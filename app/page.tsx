@@ -117,7 +117,7 @@ export default function LandingPage() {
           </ul>
 
           <Link
-            href="https://t.me/+lPTKkcATbpllZTNl"
+            href="https://t.me/+swg4PbqecQMyM2I1"
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleJoinClick}
