@@ -35,7 +35,7 @@ export default function RootLayout({
         </Script>
         <Script id="meta-pixel-init" strategy="afterInteractive">
           {`
-            fbq('init', '691058053883335');
+            fbq('init', '637304732025331');
             fbq('track', 'PageView');
           `}
         </Script>
@@ -44,7 +44,7 @@ export default function RootLayout({
             height="1"
             width="1"
             style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=691058053883335&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=637304732025331&ev=PageView&noscript=1"
           />
         </noscript>
         
